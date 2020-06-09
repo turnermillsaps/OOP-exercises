@@ -26,3 +26,21 @@ class Hand {
         return points;
     }
 }
+
+class Deck {
+    constructor() {
+
+    }
+
+    draw = () => {
+
+    }
+
+    shuffle = () => {
+
+    }
+
+    numCardsLeft = () => {
+
+    }
+}
